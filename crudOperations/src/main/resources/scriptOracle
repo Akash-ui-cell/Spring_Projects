@@ -1,0 +1,12 @@
+CREATE TABLE student
+(
+
+student_id INT , 
+student_name varchar(20),
+mobile number(10,0),
+stream varchar(20),
+address varchar(30)
+);
+
+
+insert into student values(2,'Swapnil',9643345654,'Angular','Mumbai');
